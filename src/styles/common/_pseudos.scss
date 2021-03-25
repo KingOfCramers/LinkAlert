@@ -1,0 +1,11 @@
+.pointer {
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.login-notice {
+  color: red;
+  float: left;
+  cursor: pointer;
+}
